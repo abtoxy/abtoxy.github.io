@@ -4,7 +4,6 @@ module.exports = {
     description: 'AB to XY Project Site',
     siteUrl: 'https://abtoxy.github.io/',
   },
-  pathPrefix: '/gatsby-starter-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
