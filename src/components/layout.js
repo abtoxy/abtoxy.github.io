@@ -26,7 +26,15 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            AB to XY
+            <span
+              style={{
+                ...scale(1),
+                marginBottom: rhythm(0),
+                marginTop: 0,
+              }}
+            >
+              </span>
           </Link>
         </h1>
       )
@@ -47,7 +55,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            AB to XY
           </Link>
         </h3>
       )

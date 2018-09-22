@@ -20,6 +20,7 @@ class Bio extends React.Component {
           src={profilePic}
           alt={`Kyle Mathews`}
           style={{
+            borderRadius: '40px',
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
             width: rhythm(2),
@@ -27,11 +28,8 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Juan Lopez</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
-          </a>
+          Written by <strong>Juan Lopez</strong> <br />
+          Gamer, Freelance Writer living in Buenos Aires, Argentina.
         </p>
       </div>
     )

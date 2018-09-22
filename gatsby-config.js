@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'AB to XY',
-    author: 'Kyle Mathews',
     description: 'AB to XY Project Site',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://abtoxy.github.io/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
@@ -48,11 +47,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `AB to XY`,
+        short_name: `AB to XY`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#21be58`,
         display: `minimal-ui`,
         icon: `src/assets/gatsby-icon.png`,
       },

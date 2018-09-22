@@ -30,7 +30,7 @@ class BlogPostTemplate extends React.Component {
             marginTop: rhythm(-1),
           }}
         >
-          {post.frontmatter.date}
+          {post.frontmatter.date} by Juan Lopez
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -78,7 +78,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        author
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
