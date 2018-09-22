@@ -14,7 +14,8 @@ At the time, I was, admittedly, a two-bit scrub. I remember my first encounter w
 Nevertheless, I feel knowledgeable and confident enough to put pen to paper, so to speak, and give my honest, and hopefully objective opinion on the latest installment in this amazing franchise.
 
 
-### What is it?
+What is it?
+===========
 
 In a few words; Monster Hunter World is a stellar game. If you’re a fan of the series, you are definitely missing out if you haven’t given this title a spin.
 
@@ -27,7 +28,8 @@ August 9th marked the release day of the game on PC which, of course, I picked u
 With that being said, let’s begin with the game’s stronger points.
 
 
-### The Good
+The Good
+========
 
 At first impression, the game is groundbreaking in both world design and combat mechanics. The feeling of immersing myself in the lush greeneries of the Ancient Forest was akin to taking a December family vacation to another town only to find out that the people there don’t celebrate Christmas but in a good way. “Is this my Monster Hunter?” I thought. “But why does it feel so smooth?” “Why does it (sometimes) run at 60 FPS?” If this was the future of Monster Hunter, then I was completely on board. However, the good aspects of the game definitely don’t end there, so let’s dig in.
 
@@ -95,7 +97,8 @@ Last but not least, you have the concept of seamless missions. After completing 
 
 Hunting is easier than ever in World. In this sense, you can focus more on the game itself, and less on returning to base, micromanaging menus, and so on. This is even further improved by the auto-crafting feature, which allows you to toggle certain items so that, whenever you pick up the ingredients required to craft them, the game will do it for you automatically and add them to your pouch. In this manner, you can easily craft mega potions, antidotes, herbal medicine, flash pods, dung pods, and all the other essential items without even having to open your menu.
 
-### The Bad
+The Bad
+=======
 
 “So,” you may be thinking, “if it’s so good, then why does that title of this article say ‘Doomed to Succeed’”?
 
@@ -149,10 +152,12 @@ However, the game sold like crazy. Since launch, it has sold more than 10 millio
 
 This game is an awesome title plagued with many flaws that severely detract from its overall quality. Nevertheless, it is the best-selling title in the series. In this sense, Monster Hunter World is doomed to succeed.
 
-### Recommended For
+Recommended For
+===============
 
 This game is perfect for players who love to dive in and learn the basic mechanics and master them in order to take on progressively bigger and badder challenges. It has a certain grind to it, which is offset by the fact that every hunt is completely different from each other, which helps to pad out the fatigue from repetitive gameplay. If you love taking up certain playstyles, mastering them, and taking them to the next level, then this game is definitely right up your alley.
 
-### Not Recommended For
+Not Recommended For
+===================
 
 Monster Hunter World is one of those games where you really need to buckle up and get hunting. And by this, we mean that you often need to hunt a single monster 10 to 20 times — sometimes even more — to get that specific item you needed to upgrade your weapon. If you’re not a fan of the grind, then you might want to skip this title. In fact, you could actually go ahead and skip the entire series since this is exactly what the game has been about since its inception.
