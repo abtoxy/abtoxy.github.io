@@ -3,6 +3,8 @@ title: "Monster Hunter World: Doomed to Succeed?"
 date: "2018-09-21T22:58:11+00:00"
 ---
 
+<img src="https://i.imgur.com/5OZ0M0X.jpg" title="Astera" />
+
 The newest installment in the Monster Hunter franchise is Capcom’s greatest hit yet, selling more than 10 million units following the title’s launch on the PC platform. However, ever since its inception and first showcase, die-hard fans of the series have judged the game’s new features with a grain of salt out of fear that the new mechanics would “taint” the purity and soul of their beloved franchise. Nevertheless, regardless of whether the game did or didn’t break the mold, its resounding financial success definitely proved that the formula works and that new games in the same vein could be a feasible endeavor for Capcom to pursue in future releases.
 
 However, does Monster Hunter World truly live up to the legacy of its forefathers? Is it really the resounding success that the game’s sales would otherwise make you think? Let’s dive in and see!
@@ -46,6 +48,8 @@ However, if your previous gameplay experience with this franchise before picking
 In this regard, you will find tons of conflicting information and opinions, as well as community infighting about whether these additions were good or bad. While some hated Generations due to its hunting styles and welcomed the changes that World brought, for others the opposite was true. Furthermore, there are some who are against everything this new wave of Monster Hunter games have spawned, and would rather zealously continue to sink thousands of hours into Freedom Unite or whatever classic MonHun game they’re into. For this reason, if you’re even slightly interested in World, I’d suggest you disregard the community shenanigans and try it for yourself to make your own opinion.
 
 While the game does have its flaws in terms of monster designs and weapon balancing, this in no way detracts from the overall experience of getting good with your favorite weapon and taking your quarry on a one-way trip to pound town.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ZocYCP2ZbhE?rel=0&controls=0&autoplay=0&modestbranding=1&fs=0" frameborder="0"></iframe>
 
 ### The World
 
