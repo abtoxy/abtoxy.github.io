@@ -41,6 +41,8 @@ While most of the 14 weapons types retain the majority of the moves that we’ve
 
 Changes like this one exist for most weapon types and, while some of them are more intuitive and easier to get used to than others, they are, for the most part, a step up from the gameplay mechanics of previous titles.
 
+<img src="https://i.imgur.com/bmoHe5y.jpg" title="SAED" />
+
 As a charge blade, bow, and greatsword user myself, I found vast enjoyment in learning the nuances of my favorite weapon types. It’s so refreshing to go from a game with amazing combat mechanics in previous iterations to another with even better mechanics on top of better controls and a smoother gameplay experience. This improved control scheme also made want to learn new weapons, such as the lance, which I’ve become increasingly proficient with.
 
 However, if your previous gameplay experience with this franchise before picking up World was with Generations, like mine, then these changes might feel somewhat bittersweet. The weapons control better than ever, true, but the removal of hunting styles could, for some, feel like a downgrade from the previous game.
@@ -49,7 +51,7 @@ In this regard, you will find tons of conflicting information and opinions, as w
 
 While the game does have its flaws in terms of monster designs and weapon balancing, this in no way detracts from the overall experience of getting good with your favorite weapon and taking your quarry on a one-way trip to pound town.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ZocYCP2ZbhE?rel=0&controls=0&autoplay=0&modestbranding=1&fs=0" frameborder="0"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/pYW2-tZHJS8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### The World
 
@@ -61,13 +63,19 @@ This series has always been known for its whimsical locations that, while defini
 
 This obviously doesn’t detract from the absolute amazing job the guys at Capcom did with their zone design. In fact, this is arguably one of the game’s best features, which goes hand in hand with the new movement mechanics implemented into this game. But more on that later.
 
+<img src="https://i.imgur.com/T5MIXsG.jpg" title="Wildspire Waste" />
+
 Back then, each map was divided into several numbered areas, all of which were divided by a loading screen. Monster Hunter World does away with all of this and created entire seamless maps for each area, all of which can be traversed by foot or wingdrake. In previous installments, you could even use the loading screens between areas to flee from monsters and get a quick heal in before heading back to battle. This is all but impossible this time around as there is no zoning whatsoever.
 
 Furthermore, instead of a single camp area where the player would spawn at the beginning of missions or expeditions like in past titles, you can find several potential campsites in each map in World, which can be then permanently unlocked by handing in some supplies and research points in the resource center. In order to facilitate travel and get around these huge maps, you may also fast travel between these camps. In this sense, discovering and unlocking them will quickly become one of your main priorities to speed up your subsequent hunts.
 
 Each map comes with its own sets of unique hazards and conditions, for which you’ll have to prepare beforehand. The Rotten Vale, for example, is plagued with a toxic effluvium, which slowly chips away at your health and can sometimes build up to the point of afflicting your hunter with a debuff that cuts his maximum HP in half. Luckily, there are many ways to deal with this debuff, and even to prevent it entirely. For instance, the condition is easily removed by eating a nulberry. Furthermore, you may prevent it from setting in by wearing a mantle (since they cover your mouth and nose), by using torch pods on the ground to burn away the toxic fumes in the immediate area, or by equipping appropriate armor skills. Nevertheless, while these conditions definitely make this map a slog to handle for many, it definitely has its unique charm.
 
+<img src="https://i.imgur.com/8WbOjz9.jpg" title="Effluvium" />
+
 In fact, all of the maps in the game have their own unique features that make them stand out in their own right. The Ancient Forest is marred with branching paths, vine traps, wedge beetles that you can latch onto with your slinger to cover more ground, and myriad critters roaming about doing their own thing. On the other hand, the Coral Highlands, while not as impressive in terms of the mobility options it offers, looks absolutely surreal. The first time I stepped foot in it, I genuinely thought I was underwater; even the sky looks as if you were looking at it from beneath the waves of a vast ocean. This one is definitely a nod to the whimsical landscapes of previous Monster Hunter titles, which makes it one of my absolute favorite places to kick some monster butt in.
+
+<img src="https://i.imgur.com/ESqJhHS.jpg" title="Coral-Highlands />"
 
 Monster Hunter Generations has a total of 20 maps, including arenas. Meanwhile, World only has 5 main maps and a handful of arenas. Nevertheless, even with the small number of maps, World definitely manages to create a feeling of cohesion between all its zones, which contributes towards the overall charm of the game.
 
@@ -76,6 +84,8 @@ Monster Hunter Generations has a total of 20 maps, including arenas. Meanwhile, 
 The gameplay changes that Monster Hunter World brought to the table, while few, are the perfect addition to complement the game’s new map design. Weapon changes aside, the single largest gameplay mechanic introduced this time around is the Slinger.
 
 This device, which is meant to be worn on the left arm, is standard issue for every hunter of the new world. The slinger is a multipurpose tool, used mainly as a grappling hook. This device can also fit all types of ammo such as stones, torch pods, and water pellets, among others, all of which you can pick up from the ground or some plants. You can then launch these pods at monsters, or some environmental objects to cause different effects. For example, if you launch any type of projectile to the rocks which are precariously hanging in one part of the Ancient Forest, you can make them fall down. Should a monster be under them when they fall, you can cause considerable damage on top of possibly knocking your foe to the ground for some easy pickings.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Jyk-vHG6Jgo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Additionally, your standard flash bombs and dung bombs have been replaced by flash pods and dung pods, respectively. In this game, you launch these vital tools from your slinger, instead of chucking them by hand.
 
@@ -91,7 +101,11 @@ Gathering is faster than ever in this game as your hunter no longer needs to hun
 
 The main hub this time around is as useful as ever. Though Generations definitely spoiled us with many hubs, your base of operations in World, Astera, has all the tools that you’ll ever need. Like in other games, you can find your canteen in Astera, as well as a merchant, a workshop, the melder and The Handler who manages your assignments and investigations.
 
+<img src="https://i.imgur.com/PfJvmED.jpg" title="Workshop" />
+
 Some new additions here are the resource center and the ecology researcher. The former gives out repeatable assignments that you can complete for some decent loot, as well as the weekly tasks that grants some pretty nice prizes on completion. You can also turn in several special assignments here to receive special rewards and upgrade many of the town’s facilities. Meanwhile, the latter analyzes all the tracks and samples from various monsters that you pick up in the world, and rewards you with information that you can view in your Hunter’s Notes at any time.
+
+<img src="https://i.imgur.com/omKRQC8.jpg" title="Resource-Center" />
 
 This last one is pretty cool as it allows you to consult the weak spots of every single monster, the parts that can be broken off, the drops that you can expect for both their low rank and high rank versions, and their elemental and physical weaknesses in every part of their body. In this sense, you no longer have to consult an external wiki or resource to find out how best to prepare against the toughest foes that the game has to offer.
 
