@@ -75,7 +75,7 @@ Each map comes with its own sets of unique hazards and conditions, for which you
 
 In fact, all of the maps in the game have their own unique features that make them stand out in their own right. The Ancient Forest is marred with branching paths, vine traps, wedge beetles that you can latch onto with your slinger to cover more ground, and myriad critters roaming about doing their own thing. On the other hand, the Coral Highlands, while not as impressive in terms of the mobility options it offers, looks absolutely surreal. The first time I stepped foot in it, I genuinely thought I was underwater; even the sky looks as if you were looking at it from beneath the waves of a vast ocean. This one is definitely a nod to the whimsical landscapes of previous Monster Hunter titles, which makes it one of my absolute favorite places to kick some monster butt in.
 
-<img src="https://i.imgur.com/ESqJhHS.jpg" title="Coral-Highlands />"
+<img src="https://i.imgur.com/ESqJhHS.jpg" title="Coral-Highlands" />
 
 Monster Hunter Generations has a total of 20 maps, including arenas. Meanwhile, World only has 5 main maps and a handful of arenas. Nevertheless, even with the small number of maps, World definitely manages to create a feeling of cohesion between all its zones, which contributes towards the overall charm of the game.
 
