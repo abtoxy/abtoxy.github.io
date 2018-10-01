@@ -62,6 +62,8 @@ As some people say: there can be no Yin without its Yang. Monster Hunter Generat
 ### Monster Presentations
 As I commented on my Monster Hunter World review, I’m not a hardcore veteran of the series. I started with Monster Hunter 4 Ultimate on the 3DS, which positively blew my mind with its presentation. Every time you encountered a new monster, a cool cutscene played where your hunter would engage the beast, and they would trade some blows before the scene seamlessly transitioned into gameplay.  This feature served to show you a bit about how the monster behaves, revealing potential weaknesses, or alerting you to any of his attacks.
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/5tuhzH0YGyo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 In both Monster Hunter Ultimate and Ultimate Generations, however, this was no longer the case. Now, with each new monster you encounter, you only see them walking around for a few seconds before the scene pauses for a few seconds as the name of the monster appears in big white letters, and then fades to black as it transitions back to gameplay.
 
 <img src="https://i.imgur.com/DBoiMx9.jpg" title="Lagombi" />
